@@ -1,12 +1,12 @@
 # markdown-task
 Task 1: Markdown Challenge
 #introduction to markdown
-Markdown is a lightweight markup language for creating format text using plane text.
+Markdown is a lightweight markup language for creating format text using plain text.
 ## Features I tried
 **Bold text**
 *Italic text*
 [link to mulearn](https://learn.mulearn.org)
-'Inline Code'
+- `Inline code`
 Lists:
 - item 1
 - item 2
